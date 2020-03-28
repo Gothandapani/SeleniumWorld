@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ClearTrip" parallel="none">
+<parameter name="departDate" value="Thu, 29 Nov 2018"></parameter>
+<parameter name="returnDate" value="Fri, 30 Nov 2018"></parameter>
+  <test name="Test">
+  	<groups>
+         <run>
+            <include name="Sanity"/>
+         </run>
+     </groups>
+	<classes>
+		<class name="tests.ClearTripTest"></class>
+	</classes>
+  </test>
+</suite>

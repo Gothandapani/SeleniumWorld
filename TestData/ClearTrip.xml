@@ -1,0 +1,6 @@
+<xml>
+<SearchFlights>
+<data TripType="RoundTrip" From="Chennai, IN - Chennai Airport (MAA)" To="Bangalore, IN - Kempegowda International Airport (BLR)" DepartureDate="3" ReturnDate="10"></data>
+<data TripType="RoundTrip" From="Chennai, IN - Chennai Airport (MAA)" To="Sydney, AU - Sydney Kingsford Smith (SYD)" DepartureDate="27" ReturnDate="34"></data>
+</SearchFlights>
+</xml>
